@@ -1,0 +1,5 @@
+Singleton
+http://csharpindepth.com/Articles/General/Singleton.aspx
+
+Factory
+https://www.c-sharpcorner.com/article/factory-method-design-pattern-in-c-sharp/
