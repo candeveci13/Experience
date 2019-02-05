@@ -3,3 +3,6 @@ http://csharpindepth.com/Articles/General/Singleton.aspx
 
 Factory
 https://www.c-sharpcorner.com/article/factory-method-design-pattern-in-c-sharp/
+
+Most Used Patterns
+https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e
