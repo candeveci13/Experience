@@ -12,5 +12,8 @@ Observer
 https://www.dofactory.com/net/observer-design-pattern
 https://www.gokhan-gokalp.com/c-observer-pattern-kullanimi/
 
+Builder
+https://www.dofactory.com/net/builder-design-pattern
+
 Most Used Patterns
 https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e
