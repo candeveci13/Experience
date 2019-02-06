@@ -19,6 +19,10 @@ Adapter
 https://www.dofactory.com/net/adapter-design-pattern
 https://www.geeksforgeeks.org/adapter-pattern/
 
+State
+https://www.dofactory.com/net/state-design-pattern
+https://en.wikipedi0.org/wiki/State_pattern
+
 
 Most Used Patterns
 https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e
