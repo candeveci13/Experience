@@ -15,5 +15,10 @@ https://www.gokhan-gokalp.com/c-observer-pattern-kullanimi/
 Builder
 https://www.dofactory.com/net/builder-design-pattern
 
+Adapter
+https://www.dofactory.com/net/adapter-design-pattern
+https://www.geeksforgeeks.org/adapter-pattern/
+
+
 Most Used Patterns
 https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e
