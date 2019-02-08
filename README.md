@@ -1,3 +1,3 @@
-# Experience
+# Experiences
 
-Logging of industrial and academic experiences.
+Industrial and academic experiences, kind of knowledge base.
