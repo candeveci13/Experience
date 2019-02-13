@@ -2,3 +2,5 @@ When a relative pointed file not seen, Mark Directory as Source Root.
 When common, pip install.
 
 Miniconda vs Anaconda
+
+Download miniconda, conda env list, conda create(python param otherwise it won't create files in the env), conda activate, pycharm settings, set interpreter of that environment
