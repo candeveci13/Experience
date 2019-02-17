@@ -6,3 +6,5 @@ Miniconda vs Anaconda
 Download miniconda, conda env list, conda create(python param otherwise it won't create files in the env), conda activate, pycharm settings, set interpreter of that environment
 
 Right-click folder -> Open folder as PyCharm project
+
+Creating/updating environments using .yml files e.g. cntk environment
