@@ -1,3 +1,0 @@
-WSL
-
-Multiple Git accounts in one pc -> Github Desktop set git account , Sourcetree set repository's user information
