@@ -6,3 +6,6 @@ https://github.com/facebookresearch/LASER
 
 BrainScript CNTK Text Format Reader
 https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-CNTKTextFormat-Reader
+
+To make a smart speaker
+https://github.com/voice-engine/make-a-smart-speaker
