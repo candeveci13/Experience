@@ -32,3 +32,7 @@ Hyper-V Installation
 https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
 VM creation
 https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/quick-create-virtual-machine
+Don't fool to click upgrade button. Click custom installation button in VM.
+
+
+
