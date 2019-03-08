@@ -6,6 +6,14 @@ are runtime components in support of Windows applications compiled with Microsof
 The x86 distributions are for 32-bit applications; the x64 versions are for 64-bit applications, regardless 
 of the bitness of the operating system. The version needed depends on the version of Visual Studio that 
 was used to compile the application, which should be specified in the application installation instructions.
+Microsoft Visual C++ Redistributable is the library that is having components which are required by 
+many Applications to run, and the Apps which you develop on Visual C++ require components of the Microsoft 
+Visual C++ Redistributable. These packages are used to run the contents that are developed or written 
+in the C++ programming language. 
+There are many Microsoft Redistributable packages installed on your System. You can view them by going 
+to Control Panel/Programs/Apps and Features. And in the list of installed programs, you will see that 
+there is more than one package of Microsoft Visual C++ Redistributable.
+VC++ Redistributable is just like Java Runtime Environment. You need to install JRE to run programs developed in Java.
 
 Runtime component
 Microsoft Visual C++ (often abbreviated as MSVC or VC++) is a commercial (free version available), 
