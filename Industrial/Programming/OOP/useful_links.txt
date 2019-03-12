@@ -1,2 +1,0 @@
-Clean Code Principles
-https://github.com/labs42io/clean-code-typescript

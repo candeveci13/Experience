@@ -21,6 +21,3 @@ X_train matrisine biasing termleri(sola 1'ler) eklemeyi unutma
 research about Normal Equation
 
 
-
-
-

@@ -32,3 +32,19 @@ question-answering systems, dialogue strategies, prosody in dialogues).
 Multimodal Techniques and Modeling (video processing, facial animation, 
 visual speech synthesis, user modeling, emotion and personality 
 modeling).
+
+
+
+
+
+NLP Tutorial
+https://github.com/graykode/nlp-tutorial
+
+Laser embedding
+https://github.com/facebookresearch/LASER
+
+BrainScript CNTK Text Format Reader
+https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-CNTKTextFormat-Reader
+
+To make a smart speaker
+https://github.com/voice-engine/make-a-smart-speaker
