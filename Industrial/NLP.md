@@ -48,3 +48,6 @@ https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-CNTKTextFormat-Re
 
 To make a smart speaker
 https://github.com/voice-engine/make-a-smart-speaker
+
+NLP Datasets:
+https://gengo.ai/datasets/15-free-sentiment-analysis-datasets-for-machine-learning/
