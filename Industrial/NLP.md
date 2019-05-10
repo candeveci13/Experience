@@ -51,3 +51,10 @@ https://github.com/voice-engine/make-a-smart-speaker
 
 NLP Datasets:
 https://gengo.ai/datasets/15-free-sentiment-analysis-datasets-for-machine-learning/
+
+Text Summarization
+    Extraction-based summarization
+    Abstraction-based summarization
+    Article containing links and books
+        https://machinelearningmastery.com/gentle-introduction-text-summarization/
+        https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1
