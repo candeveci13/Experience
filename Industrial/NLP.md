@@ -33,10 +33,6 @@ Multimodal Techniques and Modeling (video processing, facial animation,
 visual speech synthesis, user modeling, emotion and personality 
 modeling).
 
-
-
-
-
 NLP Tutorial
 https://github.com/graykode/nlp-tutorial
 
@@ -74,3 +70,6 @@ https://github.com/nltk/nltk
 
 Stanford CoreNLP – Natural language software
 https://stanfordnlp.github.io/CoreNLP/
+
+Kemik Turkish NLP Datasets
+http://www.kemik.yildiz.edu.tr/?id=28
