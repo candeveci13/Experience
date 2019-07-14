@@ -73,3 +73,6 @@ https://stanfordnlp.github.io/CoreNLP/
 
 Kemik Turkish NLP Datasets
 http://www.kemik.yildiz.edu.tr/?id=28
+
+NLP Datasets in Turkish
+https://medium.com/5bayt/do%C4%9Fal-dil-i%CC%87%C5%9Fleme-verisetleri-3f479f359283
