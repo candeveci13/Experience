@@ -9,10 +9,11 @@ Right-click folder -> Open folder as PyCharm project
 
 Creating/updating environments using .yml files e.g. cntk environment
 
-
-
 String path slash
 https://stackoverflow.com/questions/1945920/why-doesnt-os-path-join-work-in-this-case
 
 Awesome Python
 https://github.com/vinta/awesome-python
+
+Seaborn: Statistical Data Visualization Library
+https://seaborn.pydata.org/

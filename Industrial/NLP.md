@@ -58,3 +58,19 @@ Text Summarization
     Article containing links and books
         https://machinelearningmastery.com/gentle-introduction-text-summarization/
         https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1
+
+https://github.com/NirantK/nlp-python-deep-learning
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+
+Spacy: is a free, open-source library for advanced Natural Language Processing (NLP) in Python.
+https://spacy.io/
+
+NLP Practical Tutorials
+https://github.com/NirantK/nlp-python-deep-learning
+
+NLTK -- the Natural Language Toolkit -- is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+https://github.com/nltk/nltk
+
+Stanford CoreNLP – Natural language software
+https://stanfordnlp.github.io/CoreNLP/

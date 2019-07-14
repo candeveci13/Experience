@@ -100,3 +100,5 @@ All Algorithms implemented in Python
     https://github.com/TheAlgorithms/Python
     
     
+spaCy is not a platform or “an API”. Unlike a platform, spaCy does not provide a software as a service, or a web application. 
+It’s an open-source library designed to help you build NLP applications, not a consumable service.
