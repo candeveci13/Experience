@@ -76,3 +76,6 @@ http://www.kemik.yildiz.edu.tr/?id=28
 
 NLP Datasets in Turkish
 https://medium.com/5bayt/do%C4%9Fal-dil-i%CC%87%C5%9Fleme-verisetleri-3f479f359283
+
+FuzzyWuzzy: Fuzzy string matching. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package.
+https://github.com/seatgeek/fuzzywuzzy
