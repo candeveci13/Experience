@@ -79,3 +79,7 @@ https://medium.com/5bayt/do%C4%9Fal-dil-i%CC%87%C5%9Fleme-verisetleri-3f479f3592
 
 FuzzyWuzzy: Fuzzy string matching. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package.
 https://github.com/seatgeek/fuzzywuzzy
+
+Jellyfish: Jellyfish is a python library for doing approximate and phonetic matching of strings.
+https://pypi.org/project/jellyfish/
+
