@@ -80,6 +80,10 @@ https://medium.com/5bayt/do%C4%9Fal-dil-i%CC%87%C5%9Fleme-verisetleri-3f479f3592
 FuzzyWuzzy: Fuzzy string matching. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package.
 https://github.com/seatgeek/fuzzywuzzy
 
-Jellyfish: Jellyfish is a python library for doing approximate and phonetic matching of strings.
+Jellyfish: Jellyfish is a python library for doing approximate and phonetic matching of strings. Also Phonetic Encoding
 https://pypi.org/project/jellyfish/
 
+FlashText: a Python library created specifically for the purpose of searching and replacing words in a document. Now, the way FlashText works is that it requires a word or a list of words and a string. The words which FlashText calls keywords are then searched or replaced in the string.
+https://pypi.org/project/flashtext/
+https://www.analyticsvidhya.com/blog/2017/11/flashtext-a-library-faster-than-regular-expressions/
+https://medium.com/@Alibaba_Cloud/why-you-should-use-flashtext-instead-of-regex-for-data-analysis-960a0dc96c6a
