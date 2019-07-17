@@ -59,7 +59,8 @@ https://github.com/NirantK/nlp-python-deep-learning
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 
-Spacy: is a free, open-source library for advanced Natural Language Processing (NLP) in Python.
+Spacy: is a free, open-source library for advanced Natural Language Processing (NLP) in Python. Named Entity Recognition, 
+Part-of-Speech Tagging
 https://spacy.io/
 
 NLP Practical Tutorials
@@ -87,3 +88,12 @@ FlashText: a Python library created specifically for the purpose of searching an
 https://pypi.org/project/flashtext/
 https://www.analyticsvidhya.com/blog/2017/11/flashtext-a-library-faster-than-regular-expressions/
 https://medium.com/@Alibaba_Cloud/why-you-should-use-flashtext-instead-of-regex-for-data-analysis-960a0dc96c6a
+
+displacy: isualizing a dependency parse or named entities in a text
+https://spacy.io/usage/visualizers
+
+Question Generation using Dependency Parsing
+https://github.com/NirantK/nlp-python-deep-learning/blob/master/Part-03%20NLP%20with%20spaCy%20and%20Textacy.ipynb
+
+textacy is a Python library for performing a variety of natural language processing (NLP) tasks, built on the high-performance spaCy library. With the fundamentals --- tokenization, part-of-speech tagging, dependency parsing, etc. --- delegated to another library, textacy focuses primarily on the tasks that come before and follow after.
+https://pypi.org/project/textacy/
