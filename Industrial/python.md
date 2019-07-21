@@ -17,3 +17,7 @@ https://github.com/vinta/awesome-python
 
 Seaborn: Statistical Data Visualization Library
 https://seaborn.pydata.org/
+
+tqdm: make loops show a smart progress meter
+https://pypi.org/project/tqdm/
+
