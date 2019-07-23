@@ -97,3 +97,15 @@ https://github.com/NirantK/nlp-python-deep-learning/blob/master/Part-03%20NLP%20
 
 textacy is a Python library for performing a variety of natural language processing (NLP) tasks, built on the high-performance spaCy library. With the fundamentals --- tokenization, part-of-speech tagging, dependency parsing, etc. --- delegated to another library, textacy focuses primarily on the tasks that come before and follow after.
 https://pypi.org/project/textacy/
+
+Gensim Doc2vec, FastText
+
+Glove: is an unsupervised learning algorithm for generating vector representations for words.
+Training is done using a co-occcurence matrix from a corpus. The resulting representations contain structure useful for many other tasks.
+The paper describing the model is [here](http://nlp.stanford.edu/projects/glove/glove.pdf).
+https://pypi.org/project/glove/
+
+lxml: is a Pythonic, mature binding for the libxml2 and libxslt libraries. It provides safe and convenient access to these libraries using the ElementTree API.
+https://pypi.org/project/lxml/
+
+
