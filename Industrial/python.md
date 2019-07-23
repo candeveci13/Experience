@@ -21,3 +21,6 @@ https://seaborn.pydata.org/
 tqdm: make loops show a smart progress meter
 https://pypi.org/project/tqdm/
 
+pandas: An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+https://pypi.org/project/pandas/
+
