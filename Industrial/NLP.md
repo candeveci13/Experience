@@ -108,4 +108,28 @@ https://pypi.org/project/glove/
 lxml: is a Pythonic, mature binding for the libxml2 and libxslt libraries. It provides safe and convenient access to these libraries using the ElementTree API.
 https://pypi.org/project/lxml/
 
+Anaphora  Resolution
+
+Discourse/Text Structure Recognition
+
+Automatic summarization produces an understandable summary of a set of text and provides summaries or detailed information
+of text of a known type. 
+
+Co-reference resolution: it refers to a sentence or larger set of text that determines which word refer to the same object.
+
+Discourse analysis refers to the task of identifying the discourse structure of connected text.
+
+Machine translation which refers to automatic translation of text from one human language to another.
+
+Morphological segmentation which refers to separate word into individual morphemes and identify the class of  the  morphemes. 
+
+Named entity recognition (NER) it describes a stream of text, determine which items in the text relates to proper names. 
+
+Part of speech tagging it describes a sentence, determines the part of speech for each word.
+
+
+
+
+
+
 
