@@ -127,7 +127,7 @@ Named entity recognition (NER) it describes a stream of text, determine which it
 
 Part of speech tagging it describes a sentence, determines the part of speech for each word.
 
-
+Word  Net  is  a  on-line  lexical  database  available  for  English language.  It  groups  the  English  words  into  sets  of  synonyms called  sys-nets.  Word  Net  also  provides  a  short  meaning  of each  sys-net  and  semantic  relation  between  each  sys-net. Word-net  also  serves  as  a  thesaurus  and  a  on-line  dictionary which  isused  by  many  systems  for  determining  relationship between  words.
 
 
 
