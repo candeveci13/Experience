@@ -16,3 +16,10 @@ TorchText: torchtext.data: Generic data loaders, abstractions, and iterators for
 torchtext.datasets: Pre-built loaders for common NLP datasets
 https://pypi.org/project/torchtext/
 ```
+
+```
+Explanations of RNN
+https://peterroelants.github.io/posts/rnn-implementation-part01/
+https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+```
+
