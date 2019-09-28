@@ -24,3 +24,7 @@ http://kaldi-asr.org/doc/graph.html
 ```
 http://www.danielpovey.com/kaldi-lectures.html
 ```
+
+```
+https://github.com/wiseman/py-webrtcvad
+```

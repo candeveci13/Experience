@@ -25,4 +25,3 @@ Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning-The MIT Press (20
 Supervised Sequence Labelling with Recurrent Neural Networks, Alex Graves
 ilya_sutskever_phd_thesis
 ```
-

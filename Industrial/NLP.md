@@ -202,3 +202,52 @@ https://rxnlp.com/how-rouge-works-for-evaluation-of-summarization-tasks/#.XXIxRC
 Rouge 1-2-L-S Metrics and their implementations.
 ```
 
+
+```
+https://machinelearningmastery.com/gentle-introduction-text-summarization/
+Introduction to text summarization
+```
+
+```
+https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1
+Unsupervised Text Summarization using Sentence Embeddings
+```
+
+
+```
+https://github.com/abisee/pointer-generator
+pointer-generator
+```
+
+
+
+```
+https://towardsdatascience.com/comparing-text-summarization-techniques-d1e2e465584e
+Comparing Text Summarization Techniques
+```
+
+
+```
+https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
+Text summarization in 5 steps using NLTK
+```
+
+```
+https://www.geeksforgeeks.org/personal-voice-assistant-in-python/
+```
+
+```
+https://www.quora.com/Where-can-I-find-good-data-sets-for-text-summarization
+```
+
+```
+https://github.com/mathsyouth/awesome-text-summarization
+```
+
+```
+http://nlpprogress.com/english/summarization.html
+```
+
+```
+https://towardsdatascience.com/text-summarization-in-python-76c0a41f0dc4
+```
