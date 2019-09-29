@@ -50,3 +50,7 @@ https://pypi.org/project/pandas/
 numpy seed explanation
 https://www.sharpsightlabs.com/blog/numpy-random-seed/
 ```
+
+```
+https://stackoverflow.com/questions/5893163/what-is-the-purpose-of-the-single-underscore-variable-in-python
+```
